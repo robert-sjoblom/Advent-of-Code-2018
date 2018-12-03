@@ -1,5 +1,5 @@
 // part 1
-eval(input.split('\n').join(' ')) // 416
+eval(input) // 416
 
 // part 2
 // this is a naive implementation, but my math isn't good enough
